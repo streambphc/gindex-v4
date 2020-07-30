@@ -4,9 +4,9 @@ var authConfig = {
   hybridpass: "Copy Hybrid Password Generated from Backend",
   version: "v7.7.7",
   frontendUrl: "https://glorytoheaven.tk",
-  github_name: "tks18",
+  github_name: "streambphc",
   github_repo: "gindex-v4",
-  favicon: "https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico",
+  favicon: "https://raw.githubusercontent.com/streambphc/infozy/develop/favicon.ico",
   client_id: "client_id",
   backendSite: "http://localhost:3000",
   client_secret: "client_id",
@@ -39,9 +39,9 @@ var themeOptions = {
   },
   render: {
     head_md: true,
-    head_md_link: `https://cdn.jsdelivr.net/gh/tks18/gindex-v4@v7.5.2/vuejs/dist/HEAD.md`,
+    head_md_link: `https://cdn.jsdelivr.net/gh/streambphc/gindex-v4@v7.5.2/vuejs/dist/HEAD.md`,
     readme_md: true,
-    readme_md_link: "https://cdn.jsdelivr.net/gh/tks18/gindex-v4@v7.5.2/vuejs/dist/README.md",
+    readme_md_link: "https://cdn.jsdelivr.net/gh/streambphc/gindex-v4@v7.5.2/vuejs/dist/README.md",
     desc: true,
   }
 }
